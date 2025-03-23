@@ -1,9 +1,8 @@
-Only yesterday I was pressing 10 PRINT on a ZX-81.
+Coding for fun.
 
-Ok it could have been the day before, how long ago was 1982 again?
+Wrote first Sinclair BASIC code on a ZX-81 early 1980s.
 
-Was never trained to be a coder, have tinkered with several languages sinds the 1980s.
-Presently making efforts to learn this Python thing...
+Currently learning more about Python. Using Tkinter to make GUIs but also making my onw class definitions and re-using them in my code.
 
 <!---
 oonap0oo/oonap0oo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
