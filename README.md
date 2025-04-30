@@ -1,8 +1,10 @@
 Coding for fun.
 
-Wrote first Sinclair BASIC code on a ZX-81 early 1980s.
+Currently learning more about Python. Have been exprementing with Tkinter GUI, Numpy, Scipy and Matplotlib. 
 
-Currently learning more about Python. Also trying some stuff in GNU Octave. Never been a professional coder.
+Also trying some stuff in GNU Octave.
+
+Even some Python code for a Numworks calculator can be found here.
 
 <!---
 oonap0oo/oonap0oo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
