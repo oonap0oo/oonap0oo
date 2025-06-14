@@ -1,6 +1,6 @@
 Coding for fun.
 
-Currently learning more about Python. Have been exprementing with Tkinter GUI, Numpy, Scipy and Matplotlib. 
+Currently learning more about Python. Have been experimenting with Tkinter GUI, Numpy, Scipy and Matplotlib. 
 
 Also trying some stuff in GNU Octave.
 
