@@ -9,17 +9,17 @@ Currently learning more about Python. Have been experimenting with:
 * Pillow (PIL)
 * Turtle
 
-Also trying some stuff in GNU Octave.
-
 Python code for a Numworks calculator can also be found here. 
 
 ![https://github.com/oonap0oo/Numworks-calculator](https://github.com/oonap0oo/Numworks-calculator)
 
-and on the Numworks site, most scripts can be emulated right there
+and on the Numworks site, most scripts can be emulated right there:
 
 ![https://my.numworks.com/python/vnap0v](https://my.numworks.com/python/vnap0v)
 
 This device has a Python coding app which implements a version of MicroPython.
+
+Also trying some stuff in GNU Octave now and then.
 
 <!---
 oonap0oo/oonap0oo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
