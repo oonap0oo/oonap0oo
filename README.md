@@ -11,7 +11,7 @@ Currently learning more about Python. Have been experimenting with:
 * Pillow (PIL)
 * Turtle
 
-A lot of shorter Python projects can be found here:
+#### A lot of shorter Python projects can be found here:
 
 ![https://github.com/oonap0oo/small-Python-projects](https://github.com/oonap0oo/small-Python-projects)
 
@@ -19,7 +19,7 @@ A lot of shorter Python projects can be found here:
 
 ![https://github.com/oonap0oo/animation-with-matplotlib](https://github.com/oonap0oo/animation-with-matplotlib)
 
-Some bigger projects:
+#### Some bigger projects:
 
 A photo editor suing Python, Tkinter, numpy and Pillow:
 
