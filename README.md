@@ -25,7 +25,7 @@ A photo editor suing Python, Tkinter, numpy and Pillow:
 
 ![https://github.com/oonap0oo/python-photo-editor](https://github.com/oonap0oo/python-photo-editor)
 
-A function plotter embeds matplotlig graph in tkinter gui:
+A function plotter embeds matplotlib graph in tkinter gui:
 
 ![https://github.com/oonap0oo/python_plotter](https://github.com/oonap0oo/python_plotter)
 
