@@ -31,15 +31,12 @@ A function plotter embeds matplotlib graph in tkinter gui:
 
 ### Numworks calculator
 
+This device has a Python coding app which implements a version of MicroPython.
+
 Python code for a Numworks calculator can be found here:
 
 ![https://github.com/oonap0oo/Numworks-calculator](https://github.com/oonap0oo/Numworks-calculator)
 
-and also on the Numworks site, most scripts can be emulated right there:
-
-![https://my.numworks.com/python/vnap0v](https://my.numworks.com/python/vnap0v)
-
-This device has a Python coding app which implements a version of MicroPython.
 
 ### GNU Octave
 
