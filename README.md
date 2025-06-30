@@ -41,6 +41,8 @@ and also on the Numworks site, most scripts can be emulated right there:
 
 This device has a Python coding app which implements a version of MicroPython.
 
+### GNU Octave
+
 Also trying some stuff in GNU Octave now and then:
 
 ![https://github.com/oonap0oo/GNU_Octave_scripts](https://github.com/oonap0oo/GNU_Octave_scripts)
