@@ -23,7 +23,7 @@ Currently learning more about Python. Have been experimenting with:
 
 #### Some bigger projects:
 
-A photo editor suing Python, Tkinter, numpy and Pillow:
+A photo editor using Python, Tkinter, numpy and Pillow:
 
 ![https://github.com/oonap0oo/python-photo-editor](https://github.com/oonap0oo/python-photo-editor)
 
