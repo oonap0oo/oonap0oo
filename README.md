@@ -2,15 +2,6 @@
 
 ### CPython
 
-Currently learning more about Python. Have been experimenting with:
-  
-* Tkinter GUI
-* Numpy
-* Scipy
-* Matplotlib
-* Pillow (PIL)
-* Turtle
-
 #### A lot of shorter Python projects can be found here:
 
 [https://github.com/oonap0oo/Python-and-Turtle](https://github.com/oonap0oo/Python-and-Turtle)
