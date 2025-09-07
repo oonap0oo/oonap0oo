@@ -17,8 +17,11 @@
 #### Photo Editor
 
 A photo editor using Python, Tkinter, numpy and Pillow:
+<a href="https://github.com/oonap0oo/python-photo-editor">
 
 <img src = "https://github.com/oonap0oo/python-photo-editor/blob/main/python_photo_editor_screenshot.png" width="300"></img>
+
+</a>
 
 [https://github.com/oonap0oo/python-photo-editor](https://github.com/oonap0oo/python-photo-editor)
 
@@ -26,7 +29,11 @@ A photo editor using Python, Tkinter, numpy and Pillow:
 
 A function plotter embeds matplotlib graph in tkinter gui:
 
+<a href="https://github.com/oonap0oo/python_plotter">
+
 <img src = "https://github.com/oonap0oo/python_plotter/blob/main/plotter2.png" width="300"></img>
+
+</a>
 
 [https://github.com/oonap0oo/python_plotter](https://github.com/oonap0oo/python_plotter)
 
@@ -35,7 +42,11 @@ A function plotter embeds matplotlib graph in tkinter gui:
 
 "Little Math Wizard" inspired by the "Little Professor" devices made bi TI
 
+<a href="https://github.com/oonap0oo/Little-Math-Wizard">
+
 <img src = "https://github.com/oonap0oo/Little-Math-Wizard/blob/main/littlewizard.png" width="300"></img>
+
+</a>
 
 [https://github.com/oonap0oo/Little-Math-Wizard](https://github.com/oonap0oo/Little-Math-Wizard)
 
