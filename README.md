@@ -4,13 +4,13 @@
 
 ### A lot of shorter Python projects can be found here:
 
-[https://github.com/oonap0oo/Python-and-Turtle](https://github.com/oonap0oo/Python-and-Turtle)
+[https://github.com/oonap0oo/Python-and-Turtle](https://github.com/oonap0oo/Python-and-Turtle) Using the build in Turtle library, can achieve some complex and fast graphics.
 
-[https://github.com/oonap0oo/small-Python-projects](https://github.com/oonap0oo/small-Python-projects)
+[https://github.com/oonap0oo/small-Python-projects](https://github.com/oonap0oo/small-Python-projects) Fractals, calculations and plots using Matplotlib and more
 
-[https://github.com/oonap0oo/7_segment_display](https://github.com/oonap0oo/7_segment_display)
+[https://github.com/oonap0oo/7_segment_display](https://github.com/oonap0oo/7_segment_display) Displaying a vintage LED 7 segment display, for example to put an 80s clock on the screen
 
-[https://github.com/oonap0oo/animation-with-matplotlib](https://github.com/oonap0oo/animation-with-matplotlib)
+[https://github.com/oonap0oo/animation-with-matplotlib](https://github.com/oonap0oo/animation-with-matplotlib) Matplotlib can create animations
 
 ### Some bigger projects:
 
