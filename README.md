@@ -22,7 +22,11 @@ A function plotter embeds matplotlib graph in tkinter gui:
 
 [https://github.com/oonap0oo/python_plotter](https://github.com/oonap0oo/python_plotter)
 
-### Numworks calculator
+"Little Math Wizard" inspired by the "Little Professor" devices made bi TI 
+
+[https://github.com/oonap0oo/Little-Math-Wizard](https://github.com/oonap0oo/Little-Math-Wizard)
+
+### Numworks calculator, MicroPython
 
 This device has a Python coding app which implements a version of MicroPython.
 
