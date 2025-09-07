@@ -1,8 +1,8 @@
-## Coding for fun.
+# Coding for fun.
 
-### CPython
+## CPython
 
-#### A lot of shorter Python projects can be found here:
+### A lot of shorter Python projects can be found here:
 
 [https://github.com/oonap0oo/Python-and-Turtle](https://github.com/oonap0oo/Python-and-Turtle)
 
@@ -12,7 +12,9 @@
 
 [https://github.com/oonap0oo/animation-with-matplotlib](https://github.com/oonap0oo/animation-with-matplotlib)
 
-#### Some bigger projects:
+### Some bigger projects:
+
+#### Photo Editor
 
 A photo editor using Python, Tkinter, numpy and Pillow:
 
@@ -20,11 +22,16 @@ A photo editor using Python, Tkinter, numpy and Pillow:
 
 [https://github.com/oonap0oo/python-photo-editor](https://github.com/oonap0oo/python-photo-editor)
 
+#### Function Plotter
+
 A function plotter embeds matplotlib graph in tkinter gui:
 
 <img src = "https://github.com/oonap0oo/python_plotter/blob/main/plotter2.png" width="300"></img>
 
 [https://github.com/oonap0oo/python_plotter](https://github.com/oonap0oo/python_plotter)
+
+
+#### Little Math Wizard
 
 "Little Math Wizard" inspired by the "Little Professor" devices made bi TI
 
