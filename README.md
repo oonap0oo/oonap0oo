@@ -16,13 +16,19 @@
 
 A photo editor using Python, Tkinter, numpy and Pillow:
 
+<img src = "https://github.com/oonap0oo/python-photo-editor/blob/main/python_photo_editor_screenshot.png" width="300"></img>
+
 [https://github.com/oonap0oo/python-photo-editor](https://github.com/oonap0oo/python-photo-editor)
 
 A function plotter embeds matplotlib graph in tkinter gui:
 
+<img src = "https://github.com/oonap0oo/python_plotter/blob/main/plotter2.png" width="300"></img>
+
 [https://github.com/oonap0oo/python_plotter](https://github.com/oonap0oo/python_plotter)
 
-"Little Math Wizard" inspired by the "Little Professor" devices made bi TI 
+"Little Math Wizard" inspired by the "Little Professor" devices made bi TI
+
+<img src = "https://github.com/oonap0oo/Little-Math-Wizard/blob/main/littlewizard.png" width="300"></img>
 
 [https://github.com/oonap0oo/Little-Math-Wizard](https://github.com/oonap0oo/Little-Math-Wizard)
 
