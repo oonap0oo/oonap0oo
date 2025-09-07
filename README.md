@@ -6,6 +6,8 @@
 
 #### Python and Turtle graphics
 
+Using the build in Turtle library, can achieve some complex and fast graphics.
+
 <a href="https://github.com/oonap0oo/Python-and-Turtle">
 
 <img src="https://github.com/oonap0oo/Python-and-Turtle/blob/main/recursive_tree_screenshot.png" width=300></img>
@@ -14,9 +16,10 @@
 
 [https://github.com/oonap0oo/Python-and-Turtle](https://github.com/oonap0oo/Python-and-Turtle) 
 
-Using the build in Turtle library, can achieve some complex and fast graphics.
 
 #### Small Python projects
+
+Fractals, calculations and plots using Matplotlib and more
 
 <a href="https://github.com/oonap0oo/small-Python-projects">
 
@@ -28,9 +31,10 @@ Using the build in Turtle library, can achieve some complex and fast graphics.
 
 [https://github.com/oonap0oo/small-Python-projects](https://github.com/oonap0oo/small-Python-projects) 
 
-Fractals, calculations and plots using Matplotlib and more
 
 #### Vintage LED 7 segment display
+
+Displaying a vintage LED 7 segment display, for example to put an 80s clock on the screen
 
 <a href="https://github.com/oonap0oo/7_segment_display">
 
@@ -40,13 +44,13 @@ Fractals, calculations and plots using Matplotlib and more
 
 [https://github.com/oonap0oo/7_segment_display](https://github.com/oonap0oo/7_segment_display) 
 
-Displaying a vintage LED 7 segment display, for example to put an 80s clock on the screen
 
 #### Matplotlib animations
 
+Matplotlib can create animations
+
 [https://github.com/oonap0oo/animation-with-matplotlib](https://github.com/oonap0oo/animation-with-matplotlib) 
 
-Matplotlib can create animations
 
 ### Some bigger projects:
 
