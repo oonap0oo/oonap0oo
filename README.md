@@ -95,6 +95,16 @@ A function plotter embeds matplotlib graph in tkinter gui:
 
 This device has a Python coding app which implements a version of MicroPython.
 
+<a href="https://github.com/oonap0oo/Numworks-calculator">
+
+<img src="https://github.com/oonap0oo/Numworks-calculator/blob/main/entend_kandinsky_screenshot.png" width = 300></img>
+
+<img src="https://github.com/oonap0oo/Numworks-calculator/blob/main/lorenz_screenshot.png" width = 300></img>
+
+<img src="https://github.com/oonap0oo/Numworks-calculator/blob/main/stopwatch7segments_screenshot.png" width = 300></img>
+
+</a>
+
 Python code for a Numworks calculator can be found here:
 
 [https://github.com/oonap0oo/Numworks-calculator](https://github.com/oonap0oo/Numworks-calculator)
