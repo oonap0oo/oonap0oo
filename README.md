@@ -57,6 +57,7 @@ Matplotlib can create animations
 #### Photo Editor
 
 A photo editor using Python, Tkinter, numpy and Pillow:
+
 <a href="https://github.com/oonap0oo/python-photo-editor">
 
 <img src = "https://github.com/oonap0oo/python-photo-editor/blob/main/python_photo_editor_screenshot.png" width="300"></img>
