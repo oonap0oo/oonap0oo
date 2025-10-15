@@ -30,7 +30,23 @@ Using the build in Turtle library, can achieve some complex and fast graphics.
 
 [https://github.com/oonap0oo/Python-and-Turtle](https://github.com/oonap0oo/Python-and-Turtle) 
 
+### Numworks calculator, MicroPython
 
+This device has a Python coding app which implements a version of MicroPython.
+
+<a href="https://github.com/oonap0oo/Numworks-calculator">
+
+<img src="https://github.com/oonap0oo/Numworks-calculator/blob/main/entend_kandinsky_screenshot.png" width = 300></img>
+
+<img src="https://github.com/oonap0oo/Numworks-calculator/blob/main/lorenz_screenshot.png" width = 300></img>
+
+<img src="https://github.com/oonap0oo/Numworks-calculator/blob/main/stopwatch7segments_screenshot.png" width = 300></img>
+
+</a>
+
+Python code for a Numworks calculator can be found here:
+
+[https://github.com/oonap0oo/Numworks-calculator](https://github.com/oonap0oo/Numworks-calculator)
 
 #### Vintage LED 7 segment display
 
@@ -91,23 +107,6 @@ A function plotter embeds matplotlib graph in tkinter gui:
 
 [https://github.com/oonap0oo/Little-Math-Wizard](https://github.com/oonap0oo/Little-Math-Wizard)
 
-### Numworks calculator, MicroPython
-
-This device has a Python coding app which implements a version of MicroPython.
-
-<a href="https://github.com/oonap0oo/Numworks-calculator">
-
-<img src="https://github.com/oonap0oo/Numworks-calculator/blob/main/entend_kandinsky_screenshot.png" width = 300></img>
-
-<img src="https://github.com/oonap0oo/Numworks-calculator/blob/main/lorenz_screenshot.png" width = 300></img>
-
-<img src="https://github.com/oonap0oo/Numworks-calculator/blob/main/stopwatch7segments_screenshot.png" width = 300></img>
-
-</a>
-
-Python code for a Numworks calculator can be found here:
-
-[https://github.com/oonap0oo/Numworks-calculator](https://github.com/oonap0oo/Numworks-calculator)
 
 
 ### GNU Octave
