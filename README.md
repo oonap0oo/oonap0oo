@@ -4,19 +4,6 @@
 
 ### A lot of shorter Python projects can be found here:
 
-#### Python and Turtle graphics
-
-Using the build in Turtle library, can achieve some complex and fast graphics.
-
-<a href="https://github.com/oonap0oo/Python-and-Turtle">
-
-<img src="https://github.com/oonap0oo/Python-and-Turtle/blob/main/recursive_tree_screenshot.png" width=300></img>
-
-</a>
-
-[https://github.com/oonap0oo/Python-and-Turtle](https://github.com/oonap0oo/Python-and-Turtle) 
-
-
 #### Small Python projects
 
 Fractals, calculations and plots using Matplotlib and more
@@ -30,6 +17,19 @@ Fractals, calculations and plots using Matplotlib and more
 </a>
 
 [https://github.com/oonap0oo/small-Python-projects](https://github.com/oonap0oo/small-Python-projects) 
+
+#### Python and Turtle graphics
+
+Using the build in Turtle library, can achieve some complex and fast graphics.
+
+<a href="https://github.com/oonap0oo/Python-and-Turtle">
+
+<img src="https://github.com/oonap0oo/Python-and-Turtle/blob/main/recursive_tree_screenshot.png" width=300></img>
+
+</a>
+
+[https://github.com/oonap0oo/Python-and-Turtle](https://github.com/oonap0oo/Python-and-Turtle) 
+
 
 
 #### Vintage LED 7 segment display
