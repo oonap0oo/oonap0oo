@@ -18,6 +18,19 @@ Fractals, calculations and plots using Matplotlib and more
 
 [https://github.com/oonap0oo/small-Python-projects](https://github.com/oonap0oo/small-Python-projects) 
 
+#### Modular multiplication  
+
+[https://github.com/oonap0oo/Modular-multiplication-circle/](https://github.com/oonap0oo/Modular-multiplication-circle/)
+
+Drawing Modular multiplication circles, squares and triangles using Python
+
+![https://github.com/oonap0oo/Modular-multiplication-circle/blob/main/mod_mult_circle11.png](https://github.com/oonap0oo/Modular-multiplication-circle/blob/main/mod_mult_circle11.png)
+
+![https://github.com/oonap0oo/Modular-multiplication-circle/blob/main/mod_mult_square_364_105.png](https://github.com/oonap0oo/Modular-multiplication-circle/blob/main/mod_mult_square_364_105.png)
+
+![https://github.com/oonap0oo/Modular-multiplication-circle/blob/main/mod_mult_triangle_544_218.png](https://github.com/oonap0oo/Modular-multiplication-circle/blob/main/mod_mult_triangle_544_218.png)
+
+
 #### Python and Turtle graphics
 
 Using the build in Turtle library, can achieve some complex and fast graphics.
