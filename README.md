@@ -20,14 +20,13 @@ Fractals, calculations and plots using Matplotlib and more
 
 #### Modular multiplication  
 
-
 Drawing Modular multiplication circles, squares and triangles using Python
 
-![https://github.com/oonap0oo/Modular-multiplication-circle/blob/main/mod_mult_circle11.png](https://github.com/oonap0oo/Modular-multiplication-circle/blob/main/mod_mult_circle11.png)
+<a href="https://github.com/oonap0oo/Modular-multiplication-circle">
 
-![https://github.com/oonap0oo/Modular-multiplication-circle/blob/main/mod_mult_square_364_105.png](https://github.com/oonap0oo/Modular-multiplication-circle/blob/main/mod_mult_square_364_105.png)
+<img src="https://github.com/oonap0oo/Modular-multiplication-circle/blob/main/modular_mult_shapes_screenshot.png" width = 300>
 
-![https://github.com/oonap0oo/Modular-multiplication-circle/blob/main/mod_mult_triangle_544_218.png](https://github.com/oonap0oo/Modular-multiplication-circle/blob/main/mod_mult_triangle_544_218.png)
+</a>
 
 [https://github.com/oonap0oo/Modular-multiplication-circle/](https://github.com/oonap0oo/Modular-multiplication-circle/)
 
@@ -40,6 +39,8 @@ Using the build in Turtle library, can achieve some complex and fast graphics.
 <img src="https://github.com/oonap0oo/Python-and-Turtle/blob/main/recursive_tree_screenshot.png" width=300></img>
 
 </a>
+
+
 
 [https://github.com/oonap0oo/Python-and-Turtle](https://github.com/oonap0oo/Python-and-Turtle) 
 
