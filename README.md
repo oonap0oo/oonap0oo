@@ -1,6 +1,6 @@
 # Coding for fun.
 
-## CPython
+## Python
 
 ### A lot of shorter Python projects can be found here:
 
@@ -44,7 +44,7 @@ Using the build in Turtle library, can achieve some complex and fast graphics.
 
 [https://github.com/oonap0oo/Python-and-Turtle](https://github.com/oonap0oo/Python-and-Turtle) 
 
-### Numworks calculator, MicroPython
+#### Numworks calculator, MicroPython
 
 This device has a Python coding app which implements a version of MicroPython.
 
@@ -81,6 +81,15 @@ Matplotlib can create animations
 
 [https://github.com/oonap0oo/animation-with-matplotlib](https://github.com/oonap0oo/animation-with-matplotlib) 
 
+#### Numerical Methods For Engineers - Python
+
+Python versions of some of the example pseudocode in the book "Numerical methods for engineers 8th edition".
+
+<a href="https://github.com/oonap0oo/Numerical-methods-for-engineers-python">
+
+<img src="https://github.com/oonap0oo/Numerical-methods-for-engineers-python/blob/main/numerical_methods_incremental_search_false_pos_screenshot.png" width="300"></img>
+
+</a>
 
 ### Some bigger projects:
 
@@ -122,8 +131,7 @@ A function plotter embeds matplotlib graph in tkinter gui:
 [https://github.com/oonap0oo/Little-Math-Wizard](https://github.com/oonap0oo/Little-Math-Wizard)
 
 
-
-### GNU Octave
+## GNU Octave
 
 Also trying some stuff in GNU Octave now and then:
 
