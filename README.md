@@ -91,6 +91,8 @@ Python versions of some of the example pseudocode in the book "Numerical methods
 
 </a>
 
+[https://github.com/oonap0oo/Numerical-methods-for-engineers-python](https://github.com/oonap0oo/Numerical-methods-for-engineers-python)
+
 ### Some bigger projects:
 
 #### Photo Editor
