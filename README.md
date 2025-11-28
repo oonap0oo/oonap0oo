@@ -132,6 +132,18 @@ A function plotter embeds matplotlib graph in tkinter gui:
 
 [https://github.com/oonap0oo/Little-Math-Wizard](https://github.com/oonap0oo/Little-Math-Wizard)
 
+#### RPN Reverse Polish Notation calculator
+
+Reverse Polish Notation Calculator coded in Python. The calculator has stack levels like the classic HP RPN calculators. It supports complex numbers.
+
+<a href="https://github.com/oonap0oo/RPN-Python">
+
+<img src = "https://github.com/oonap0oo/RPN-Python/blob/main/rpn_screenshot.png" width="300"></img>
+
+</a>
+
+[https://github.com/oonap0oo/RPN-Python](https://github.com/oonap0oo/RPN-Python)
+
 
 ## GNU Octave
 
