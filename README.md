@@ -151,6 +151,22 @@ Also trying some stuff in GNU Octave now and then:
 
 [https://github.com/oonap0oo/GNU_Octave_scripts](https://github.com/oonap0oo/GNU_Octave_scripts)
 
+## NGSPICE
+
+Electronic circuit simulation using text based circuit description files as input
+
+<a href="https://github.com/oonap0oo/ngspice_analog_circuit_simulation">
+
+<img src = "https://github.com/oonap0oo/ngspice_analog_circuit_simulation/blob/main/ngspice_chua_circuit_screenshot.png" width="300"></img>
+
+</a>
+
+[https://github.com/oonap0oo/ngspice_analog_circuit_simulation](https://github.com/oonap0oo/ngspice_analog_circuit_simulation)
+
+
+
+
+
 <!---
 oonap0oo/oonap0oo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
