@@ -145,6 +145,18 @@ Reverse Polish Notation Calculator coded in Python. The calculator has stack lev
 [https://github.com/oonap0oo/RPN-Python](https://github.com/oonap0oo/RPN-Python)
 
 
+## QB64 BASIC Programming language
+
+After a long pauze trying some projects in the BASIC programming language.
+
+<a href="https://github.com/oonap0oo/QB64-projects">
+  
+<img src="https://github.com/oonap0oo/QB64-projects/blob/main/julia2_screenshot2.png" width="300"></img>
+
+</a>
+
+[https://github.com/oonap0oo/QB64-projects](https://github.com/oonap0oo/QB64-projects)
+
 ## GNU Octave
 
 Also trying some stuff in GNU Octave now and then:
