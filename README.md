@@ -1,5 +1,27 @@
 # Coding for fun.
 
+## QB64 BASIC Programming language
+
+After a long pauze trying some projects in the BASIC programming language.
+
+<a href="https://github.com/oonap0oo/QB64-projects">
+  
+<img src="https://github.com/oonap0oo/QB64-projects/blob/main/julia2_screenshot2.png" width="300"></img>
+
+<img src="https://github.com/oonap0oo/QB64-projects/blob/main/mandelbrot_screenshot3.png" width="300"></img>
+
+<img src="https://github.com/oonap0oo/QB64-projects/blob/main/3dsurf2_screenshot.png" width="300"></img>
+
+<img src="https://github.com/oonap0oo/QB64-projects/blob/main/7segment_screenshot.png" width="300"></img>
+
+<img src="https://github.com/oonap0oo/QB64-projects/blob/main/mod_circle_screenshot (1).png" width="300"></img>
+
+<img src="https://github.com/oonap0oo/QB64-projects/blob/main/spirograph_screenshot9.png" width="300"></img>
+
+</a>
+
+[https://github.com/oonap0oo/QB64-projects](https://github.com/oonap0oo/QB64-projects)
+
 ## Python
 
 ### A lot of shorter Python projects can be found here:
@@ -144,18 +166,6 @@ Reverse Polish Notation Calculator coded in Python. The calculator has stack lev
 
 [https://github.com/oonap0oo/RPN-Python](https://github.com/oonap0oo/RPN-Python)
 
-
-## QB64 BASIC Programming language
-
-After a long pauze trying some projects in the BASIC programming language.
-
-<a href="https://github.com/oonap0oo/QB64-projects">
-  
-<img src="https://github.com/oonap0oo/QB64-projects/blob/main/julia2_screenshot2.png" width="300"></img>
-
-</a>
-
-[https://github.com/oonap0oo/QB64-projects](https://github.com/oonap0oo/QB64-projects)
 
 ## GNU Octave
 
