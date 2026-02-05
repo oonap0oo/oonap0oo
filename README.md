@@ -10,9 +10,9 @@ After a long pauze trying some projects in the BASIC programming language.
 
 <img src="https://github.com/oonap0oo/QB64-projects/blob/main/mandelbrot_screenshot3.png" width="300"></img>
 
-<img src="https://github.com/oonap0oo/QB64-projects/blob/main/3dsurfpr_screenshot.png" width="300"></img>
+<img src="https://github.com/oonap0oo/QB64-projects/blob/main/3dsurfpr5_screenshot.png" width="300"></img>
 
-<img src="https://github.com/oonap0oo/QB64-projects/blob/main/7segment_record.gif" width="300"></img>
+<img src="https://github.com/oonap0oo/QB64-projects/blob/main/Rabinovich_Fabrikant1.png" width="300"></img>
 
 <img src="https://github.com/oonap0oo/QB64-projects/blob/main/mod_circle_screenshot (1).png" width="300"></img>
 
