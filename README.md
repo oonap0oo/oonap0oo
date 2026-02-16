@@ -8,6 +8,8 @@ After a long pauze trying some projects in the BASIC programming language.
   
 <img src="https://github.com/oonap0oo/QB64-projects/blob/main/julia2_screenshot2.png" width="300"></img>
 
+<img src="https://github.com/oonap0oo/QB64-projects/blob/main/aizawa_attractor_rnd4.png" width="300"></img>
+
 <img src="https://github.com/oonap0oo/QB64-projects/blob/main/mandelbrot_screenshot3.png" width="300"></img>
 
 <img src="https://github.com/oonap0oo/QB64-projects/blob/main/3dsurfpr5_screenshot.png" width="300"></img>
