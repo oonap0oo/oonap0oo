@@ -26,6 +26,20 @@ Detail of Mandelbrot fractal:
 
 [https://github.com/oonap0oo/QB64-projects](https://github.com/oonap0oo/QB64-projects)
 
+## PC-BASIC
+
+Code written for [PC-BASIC](https://robhagemans.github.io/pcbasic/), a free, cross-platform emulator for the GW-BASIC family of interpreters. 
+
+<a href="https://github.com/oonap0oo/PC-BASIC-projects">
+  
+<img src="https://github.com/oonap0oo/PC-BASIC-projects/blob/main/fedora.png" width="300"></img>
+
+<img src="https://github.com/oonap0oo/PC-BASIC-projects/blob/main/PCSIERP.png" width="300"></img>
+
+</a>
+
+[https://github.com/oonap0oo/PC-BASIC-projects](https://github.com/oonap0oo/PC-BASIC-projects)
+
 ## Python
 
 ### A lot of shorter Python projects can be found here:
