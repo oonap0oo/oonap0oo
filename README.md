@@ -2,7 +2,7 @@
 
 ## QB64 BASIC Programming language
 
-After a long pauze trying some projects in the BASIC programming language.
+After a long pauze trying some projects in the BASIC programming language using [QB64](https://qb64.com/) or [QB64 PE](https://www.qb64phoenix.com/).
 
 <a href="https://github.com/oonap0oo/QB64-projects">
   
