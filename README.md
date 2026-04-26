@@ -40,6 +40,11 @@ Code written for [PC-BASIC](https://robhagemans.github.io/pcbasic/), a free, cro
 
 <img src="https://github.com/oonap0oo/PC-BASIC-projects/blob/main/pcmodcir2.png" width="300"></img>
 
+<img src="https://github.com/oonap0oo/PC-BASIC-projects/blob/main/pcsurf.png" width="300"></img>
+
+<img src="https://github.com/oonap0oo/PC-BASIC-projects/blob/main/pcsphere2.png" width="300"></img>
+
+
 </a>
 
 [https://github.com/oonap0oo/PC-BASIC-projects](https://github.com/oonap0oo/PC-BASIC-projects)
@@ -57,6 +62,8 @@ Fractals, calculations and plots using Matplotlib and more
 <img src="https://github.com/oonap0oo/small-Python-projects/blob/main/hopalong_screenshot.png" width=300></img>
 
 <img src="https://github.com/oonap0oo/small-Python-projects/blob/main/buffons_needle_pi_approximation_screenshot.png" width=300></img>
+
+
 
 </a>
 
