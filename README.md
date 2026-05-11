@@ -59,6 +59,9 @@ Basic programming using [BASIC-256](https://basic256.org/)
 
 <img src="https://github.com/oonap0oo/BASIC-256/blob/main/minsky.png" width="300"></img>
 
+
+<img src="https://github.com/oonap0oo/BASIC-256/blob/main/double_pendulum.jpg" width="300"></img>
+
 </a>
 
 [https://github.com/oonap0oo/BASIC-256](https://github.com/oonap0oo/BASIC-256)
