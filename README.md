@@ -18,11 +18,9 @@ Detail of Mandelbrot fractal:
 
 <img src="https://github.com/oonap0oo/QB64-projects/blob/main/Rabinovich_Fabrikant1.png" width="300"></img>
 
-<img src="https://github.com/oonap0oo/QB64-projects/blob/main/mod_circle_screenshot (1).png" width="300"></img>
-
 <img src="https://github.com/oonap0oo/QB64-projects/blob/main/spirograph_screenshot9.png" width="300"></img>
 
-
+<img src="https://github.com/oonap0oo/QB64-projects/blob/main/interference2.png" width="300"></img>
 
 </a>
 
