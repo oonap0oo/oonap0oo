@@ -9,6 +9,8 @@ Exploring the latest [modern incarnation of BBC BASIC](https://www.bbcbasic.co.u
 
 <img src="https://github.com/oonap0oo/BBC-BASIC-for-SDL/blob/main/SURF.PNG" width="300"></img>
 
+<img src="https://github.com/oonap0oo/BBC-BASIC-for-SDL/blob/main/cafewallillusion.png" width="300"></img>
+
 <img src="https://github.com/oonap0oo/BBC-BASIC-for-SDL/blob/main/testbbc.png" width="300"></img>
 
 <img src="https://github.com/oonap0oo/BBC-BASIC-for-SDL/blob/main/phyllotaxis2.png" width="300"></img>
