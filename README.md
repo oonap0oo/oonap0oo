@@ -38,8 +38,6 @@ Basic programming using [BASIC-256](https://basic256.org/)
 [https://github.com/oonap0oo/BASIC-256](https://github.com/oonap0oo/BASIC-256)
 
 
-
-
 ## QB64 BASIC Programming language
 
 After a long pauze trying some projects in the BASIC programming language using [QB64](https://qb64.com/) or [QB64 PE](https://www.qb64phoenix.com/).
@@ -87,7 +85,13 @@ Code written for [PC-BASIC](https://robhagemans.github.io/pcbasic/), a free, cro
 
 [https://github.com/oonap0oo/PC-BASIC-projects](https://github.com/oonap0oo/PC-BASIC-projects)
 
+## Javascript and P5.JS library
 
+Exploring [P5.JS](https://p5js.org/) JavaScript library.
+
+View the pieces of code on the [P5.JS website 'My Sketches'](https://editor.p5js.org/KMoerman/sketches)
+
+On Github: [https://github.com/oonap0oo/P5.JS](https://github.com/oonap0oo/P5.JS)
 
 ## Python
 
