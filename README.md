@@ -6,13 +6,15 @@ Exploring [P5.JS](https://p5js.org/) JavaScript library.
 
 View the pieces of code on the [P5.JS website 'My Sketches'](https://editor.p5js.org/KMoerman/sketches)
 
+On Github:
+
 <a href="https://github.com/oonap0oo/P5.JS/tree/main">
   
 <img src="https://github.com/oonap0oo/P5.JS/blob/main/golden-dragon/golden_dragon_still.png" width="300"></img>
 
 </a>
 
-On Github: [https://github.com/oonap0oo/P5.JS](https://github.com/oonap0oo/P5.JS)
+[https://github.com/oonap0oo/P5.JS](https://github.com/oonap0oo/P5.JS)
 
 ## BBC BASIC for SDL
 
