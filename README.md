@@ -16,6 +16,32 @@ On Github:
 
 [https://github.com/oonap0oo/P5.JS](https://github.com/oonap0oo/P5.JS)
 
+## QB64 BASIC Programming language
+
+After a long pauze trying some projects in the BASIC programming language using [QB64](https://qb64.com/) or [QB64 PE](https://www.qb64phoenix.com/).
+
+<a href="https://github.com/oonap0oo/QB64-projects">
+  
+<img src="https://github.com/oonap0oo/QB64-projects/blob/main/julia2_screenshot2.png" width="300"></img>
+
+<img src="https://github.com/oonap0oo/QB64-projects/blob/main/aizawa_attractor_rnd4.png" width="300"></img>
+
+Detail of Mandelbrot fractal:
+
+<img src="https://github.com/oonap0oo/QB64-projects/blob/main/mandelbrot42.png" width="300"></img>
+
+<img src="https://github.com/oonap0oo/QB64-projects/blob/main/3dsurfpr5_screenshot.png" width="300"></img>
+
+<img src="https://github.com/oonap0oo/QB64-projects/blob/main/Rabinovich_Fabrikant1.png" width="300"></img>
+
+<img src="https://github.com/oonap0oo/QB64-projects/blob/main/spirograph_screenshot9.png" width="300"></img>
+
+<img src="https://github.com/oonap0oo/QB64-projects/blob/main/interference2.png" width="300"></img>
+
+</a>
+
+[https://github.com/oonap0oo/QB64-projects](https://github.com/oonap0oo/QB64-projects)
+
 ## BBC BASIC for SDL
 
 Exploring the latest [modern incarnation of BBC BASIC](https://www.bbcbasic.co.uk/bbcsdl/index.html)
@@ -52,33 +78,6 @@ Basic programming using [BASIC-256](https://basic256.org/)
 </a>
 
 [https://github.com/oonap0oo/BASIC-256](https://github.com/oonap0oo/BASIC-256)
-
-
-## QB64 BASIC Programming language
-
-After a long pauze trying some projects in the BASIC programming language using [QB64](https://qb64.com/) or [QB64 PE](https://www.qb64phoenix.com/).
-
-<a href="https://github.com/oonap0oo/QB64-projects">
-  
-<img src="https://github.com/oonap0oo/QB64-projects/blob/main/julia2_screenshot2.png" width="300"></img>
-
-<img src="https://github.com/oonap0oo/QB64-projects/blob/main/aizawa_attractor_rnd4.png" width="300"></img>
-
-Detail of Mandelbrot fractal:
-
-<img src="https://github.com/oonap0oo/QB64-projects/blob/main/mandelbrot42.png" width="300"></img>
-
-<img src="https://github.com/oonap0oo/QB64-projects/blob/main/3dsurfpr5_screenshot.png" width="300"></img>
-
-<img src="https://github.com/oonap0oo/QB64-projects/blob/main/Rabinovich_Fabrikant1.png" width="300"></img>
-
-<img src="https://github.com/oonap0oo/QB64-projects/blob/main/spirograph_screenshot9.png" width="300"></img>
-
-<img src="https://github.com/oonap0oo/QB64-projects/blob/main/interference2.png" width="300"></img>
-
-</a>
-
-[https://github.com/oonap0oo/QB64-projects](https://github.com/oonap0oo/QB64-projects)
 
 ## PC-BASIC
 
