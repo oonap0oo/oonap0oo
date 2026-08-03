@@ -22,7 +22,7 @@ After a long pauze trying some projects in the BASIC programming language using 
 
 <a href="https://github.com/oonap0oo/QB64-projects">
   
-<img src="https://github.com/oonap0oo/QB64-projects/blob/main/julia2_screenshot2.png" width="300"></img>
+<img src="https://github.com/oonap0oo/QB64-projects/blob/main/zoo.png" width="300"></img>
 
 <img src="https://github.com/oonap0oo/QB64-projects/blob/main/aizawa_attractor_rnd4.png" width="300"></img>
 
@@ -30,7 +30,7 @@ Detail of Mandelbrot fractal:
 
 <img src="https://github.com/oonap0oo/QB64-projects/blob/main/mandelbrot42.png" width="300"></img>
 
-<img src="https://github.com/oonap0oo/QB64-projects/blob/main/3dsurfpr5_screenshot.png" width="300"></img>
+<img src="https://github.com/oonap0oo/QB64-projects/blob/main/reflections2.png" width="300"></img>
 
 <img src="https://github.com/oonap0oo/QB64-projects/blob/main/Rabinovich_Fabrikant1.png" width="300"></img>
 
