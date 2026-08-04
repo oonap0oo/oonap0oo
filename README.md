@@ -81,6 +81,23 @@ Basic programming using [BASIC-256](https://basic256.org/)
 
 [https://github.com/oonap0oo/BASIC-256](https://github.com/oonap0oo/BASIC-256)
 
+
+## basicFusion
+
+Basic programming using basicFusion](https://basicfusion.org/
+
+<a href="https://github.com/oonap0oo/basicFusion">
+
+<img src="https://github.com/oonap0oo/basicFusion/blob/main/volcano_screenshot.png" width="300"></img>
+
+<img src="https://github.com/oonap0oo/basicFusion/blob/main/string_art.png" width="300"></img>
+
+<img src="https://github.com/oonap0oo/basicFusion/blob/main/tube.png" width="300"></img>
+
+</a>
+
+https://github.com/oonap0oo/basicFusion[](https://github.com/oonap0oo/basicFusion)
+
 ## PC-BASIC
 
 Code written for [PC-BASIC](https://robhagemans.github.io/pcbasic/), a free, cross-platform emulator for the GW-BASIC family of interpreters. 
