@@ -4,7 +4,7 @@
 
 Exploring [P5.JS](https://p5js.org/) JavaScript library.
 
-View the pieces of code on the [P5.JS website 'My Sketches'](https://editor.p5js.org/KMoerman/sketches)
+View <b>and run</b> the pieces of code on the [P5.JS website 'My Sketches'](https://editor.p5js.org/KMoerman/sketches)
 
 On Github:
 
