@@ -14,6 +14,12 @@ On Github:
 
 <img src="https://github.com/oonap0oo/P5.JS/blob/main/bubble-universe/bubble_universe.png" width="300"></img>
 
+<img src="https://github.com/oonap0oo/P5.JS/blob/main/munching-squares/falling-squares-text.png" width="300"></img>
+
+<img src="https://github.com/oonap0oo/P5.JS/blob/main/andxor-vibes/andxor-vibes.png" width="300"></img>
+
+<img src="https://github.com/oonap0oo/P5.JS/blob/main/sierpinskis-dream/sierpinskis-dream.png" width="300"></img>
+
 </a>
 
 [https://github.com/oonap0oo/P5.JS](https://github.com/oonap0oo/P5.JS)
