@@ -18,7 +18,11 @@ On Github:
 
 <img src="https://github.com/oonap0oo/P5.JS/blob/main/andxor-vibes/andxor-vibes.png" width="300"></img>
 
-<img src="https://github.com/oonap0oo/P5.JS/blob/main/sierpinskis-dream/sierpinskis-dream.png" width="300"></img>
+<img src="https://github.com/oonap0oo/P5.JS/blob/main/busy-mosaic/busy-mozaic.png" width="300"></img>
+
+<img src="https://github.com/oonap0oo/P5.JS/blob/main/hint-of-mandelbrod/hint-julia.png" width="300"></img>
+
+<img src="https://github.com/oonap0oo/P5.JS/blob/main/hint-of-mandelbrod/hint-mandelbrod.png" width="300"></img>
 
 </a>
 
