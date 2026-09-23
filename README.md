@@ -24,6 +24,12 @@ On Github:
 
 <img src="https://github.com/oonap0oo/P5.JS/blob/main/hint-of-mandelbrod/hint-mandelbrod.png" width="300"></img>
 
+<img src="https://github.com/oonap0oo/P5.JS/blob/main/swirl/swirl.png" width="300"></img>
+
+<img src="https://github.com/oonap0oo/P5.JS/blob/main/p5js/p5ja.png" width="300"></img>
+
+<img src="https://github.com/oonap0oo/P5.JS/blob/main/pixels/pixels.png" width="300"></img>
+
 </a>
 
 [https://github.com/oonap0oo/P5.JS](https://github.com/oonap0oo/P5.JS)
