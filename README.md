@@ -36,6 +36,27 @@ On Github:
 
 [https://github.com/oonap0oo/P5.JS](https://github.com/oonap0oo/P5.JS)
 
+## BASIC-256
+
+Basic programming using [BASIC-256](https://basic256.org/)
+
+<a href="https://github.com/oonap0oo/BASIC-256">
+
+<img src="https://github.com/oonap0oo/BASIC-256/blob/main/torus.png" width="300"></img>
+
+<img src="https://github.com/oonap0oo/BASIC-256/blob/main/swirl3D.png" width="300"></img>
+
+<img src="https://github.com/oonap0oo/BASIC-256/blob/main/non-periodic.png" width="300"></img>
+
+<img src="https://github.com/oonap0oo/BASIC-256/blob/main/minsky.png" width="300"></img>
+
+<img src="https://github.com/oonap0oo/BASIC-256/blob/main/double_pendulum.jpg" width="300"></img>
+
+</a>
+
+[https://github.com/oonap0oo/BASIC-256](https://github.com/oonap0oo/BASIC-256)
+
+
 ## QB64 BASIC Programming language
 
 After a long pauze trying some projects in the BASIC programming language using [QB64](https://qb64.com/) or [QB64 PE](https://www.qb64phoenix.com/).
@@ -82,22 +103,6 @@ Exploring the latest [modern incarnation of BBC BASIC](https://www.bbcbasic.co.u
 </a>
 
 [https://github.com/oonap0oo/BBC-BASIC-for-SDL](https://github.com/oonap0oo/BBC-BASIC-for-SDL)
-
-## BASIC-256
-
-Basic programming using [BASIC-256](https://basic256.org/)
-
-<a href="https://github.com/oonap0oo/BASIC-256">
-
-<img src="https://github.com/oonap0oo/BASIC-256/blob/main/test256_list.png" width="300"></img>
-
-<img src="https://github.com/oonap0oo/BASIC-256/blob/main/minsky.png" width="300"></img>
-
-<img src="https://github.com/oonap0oo/BASIC-256/blob/main/double_pendulum.jpg" width="300"></img>
-
-</a>
-
-[https://github.com/oonap0oo/BASIC-256](https://github.com/oonap0oo/BASIC-256)
 
 
 ## basicFusion
