@@ -6,7 +6,7 @@ Exploring [P5.JS](https://p5js.org/) JavaScript library.
 
 View <b>and run</b> the pieces of code on the [P5.JS website 'My Sketches'](https://editor.p5js.org/KMoerman/sketches)
 
-These also appear on the x.com profile [https://x.com/KurtMoerman4](https://x.com/KurtMoerman4) often woth video showing the animation.
+These also appear on the x.com profile [https://x.com/KurtMoerman4](https://x.com/KurtMoerman4) often with video showing the animation.
 
 On Github:
 
