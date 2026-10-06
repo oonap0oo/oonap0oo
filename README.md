@@ -6,13 +6,15 @@ Exploring [P5.JS](https://p5js.org/) JavaScript library.
 
 View <b>and run</b> the pieces of code on the [P5.JS website 'My Sketches'](https://editor.p5js.org/KMoerman/sketches)
 
+These also appear on the x.com profile [https://x.com/KurtMoerman4](https://x.com/KurtMoerman4) often woth video showing the animation.
+
 On Github:
 
 <a href="https://github.com/oonap0oo/P5.JS/tree/main">
   
-<img src="https://github.com/oonap0oo/P5.JS/blob/main/golden-dragon/golden_dragon_still.png" width="300"></img>
+<img src="https://github.com/oonap0oo/P5.JS/blob/main/swirl/torus.png" width="300"></img>
 
-<img src="https://github.com/oonap0oo/P5.JS/blob/main/bubble-universe/bubble_universe.png" width="300"></img>
+<img src="https://github.com/oonap0oo/P5.JS/blob/main/p5js/busy-p5js.png" width="300"></img>
 
 <img src="https://github.com/oonap0oo/P5.JS/blob/main/munching-squares/falling-squares-text.png" width="300"></img>
 
